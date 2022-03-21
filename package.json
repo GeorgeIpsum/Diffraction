@@ -1,0 +1,12 @@
+{
+  "name": "diffraction",
+  "version": "0.1.0",
+  "description": "A linear connection to anything",
+  "main": "dist/index.js",
+  "repository": "git@github.com:GeorgeIpsum/Diffraction.git",
+  "author": "Ibrahim Saberi <georgeipsum@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@linear/sdk": "^1.22.0"
+  }
+}
